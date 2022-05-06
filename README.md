@@ -1,4 +1,5 @@
 # MEGAPOST: POR DÓNDE EMPIEZO
+
 Esto basicamente es una traducción de una guía, con algunas modificaciones hechas por mi, y algunas cosas agregadas por mi.
 
 Fuente de la guía en cuestión:
@@ -6,9 +7,9 @@ Fuente de la guía en cuestión:
 [p1xt-guides](https://github.com/P1xt/p1xt-guides)
 
 La idea es tener conocimientos sólidos para conseguir el primer trabajo.
-Siguiendo esta guía y **haciendo prácticas y proyectos a medida que avanzan entre *Tiers***, debería ser suficiente para conseguir un puesto Jr.
+Siguiendo esta guía y **haciendo prácticas y proyectos a medida que avanzan entre _Tiers_**, debería ser suficiente para conseguir un puesto Jr.
 
-*Tier X* pueden ir haciendo mientras avanzan. No es requisito terminarlo para empezar *Tier 0* y *Tier 1* pero si es importante que no lo dejen tirado.
+_Tier X_ pueden ir haciendo mientras avanzan. No es requisito terminarlo para empezar _Tier 0_ y _Tier 1_ pero si es importante que no lo dejen tirado.
 
 ## Tier X - Inglés
 
@@ -16,9 +17,15 @@ Es mucho muy importante que finalicen los tiers teniendo inglés conversaciónal
 
 Youtube puede ser una fuente gratis pero lo más probable es que tengan que pagar alguna academia o alguien que los ayude.
 
-El único curso que conozco:
-
 [English for Devs](https://apx.school/carreras/eng)
+
+[English: nivel-basico](https://www.curso-ingles.com/aprender/cursos/nivel-basico)
+
+[English: nivel-intermedio](https://www.curso-ingles.com/aprender/cursos/nivel-intermedio)
+
+[English: nivel-avanzado](https://www.curso-ingles.com/aprender/cursos/nivel-avanzado)
+
+[English: ingles-negocios](https://www.curso-ingles.com/aprender/cursos/ingles-negocios)
 
 ## Tier X - Matemáticas
 
@@ -35,7 +42,7 @@ No hace falta ser un crack en matemáticas para ser programador, pero es importa
 ## Tier X - Introducción a programación
 
 Linda introducción y conocimiento general a programación.
-Si ven que se pueden beneficiar de estos cursos, haganlos. Y si no, vayan al *Tier 0* directamente. Pero tengan en cuenta que con esta introducción van a llegar mejor preparados al bootcamp que elijan.
+Si ven que se pueden beneficiar de estos cursos, haganlos. Y si no, vayan al _Tier 0_ directamente. Pero tengan en cuenta que con esta introducción van a llegar mejor preparados al bootcamp que elijan.
 
 [Introducción a JS: dibujo y animación](https://es.khanacademy.org/computing/computer-programming/programming)
 
@@ -54,6 +61,7 @@ Tengan en cuenta que los “gratuitos” que dan las provincias hay que esperar 
 Voy a nombrar los que conozco:
 
 #### Gratis:
+
 De Chaco: [INFORMATORIO](https://empleo.chaco.gob.ar/informatorio#/)
 
 De Misiones: [POLOTic Misiones](https://polotic.misiones.gob.ar/desarrollo-web-full-stack-con-java/)
@@ -61,6 +69,7 @@ De Misiones: [POLOTic Misiones](https://polotic.misiones.gob.ar/desarrollo-web-f
 De Ciudad de Buenos Aires: [Codo a Codo](https://codoacodo.bue.edu.ar/)
 
 ##### En inglés:
+
 [App Academy](https://www.appacademy.io/course/app-academy-open)
 
 [THE ODIN PROJECT](https://www.theodinproject.com/)
@@ -68,9 +77,12 @@ De Ciudad de Buenos Aires: [Codo a Codo](https://codoacodo.bue.edu.ar/)
 [freeCodeCamp](https://www.freecodecamp.org/)
 
 #### Pagos:
+
 No tengo experiencia en ningún bootcamp pago, porque nunca compré uno, así que no les puedo ser de mucha ayuda acá.
-Sólo voy a recomendar el de apx. 
+Sólo voy a recomendar el de apx.
 Este lo recomiendo porque los conozco, y participo activamente en su comunidad, además que el pago es super accesible comparado a otros:
+
+--Actualización: Hace unos meses inicié el curso de apx y se los recontra recomiendo. Desde el Módulo 1 empezas a ver conceptos y a relacionarlos con el día a día en la industria.
 
 [apx](https://apx.school/)
 
@@ -98,18 +110,17 @@ Para esta altura ya deberían por lo menos entender material en inglés, así qu
 
 [CS50's Mobile App Development with React Native](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
 
-
-
 #### Práctica:
 
 Es importante practicar al menos un ejercicio por día en el lenguaje que elijan.
-Esto les puede ser de gran ayuda si tienen entrevistas *live-coding*.
+Esto les puede ser de gran ayuda si tienen entrevistas _live-coding_.
 
 [hackerrank](https://www.hackerrank.com/)
 
 [codingame](https://www.codingame.com/)
 
 #### Lecturas
+
 Algunas páginas que me parecen interesantes en cuanto a contenido
 
 [baeldung](https://www.baeldung.com/)
